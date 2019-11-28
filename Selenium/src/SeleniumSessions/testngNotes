@@ -1,0 +1,31 @@
+TestNG -- unit test framework
+Also called TDD framework -- Test driven development
+
+purpose -- design test cases in a systematic way
+-- generate very good html reports
+-- diff. annotations
+-- priorities/sequence
+-- dependency - one test case is independent from other.
+-- grouping is also possible in testng
+-- data provider
+
+
+testng -- open source, free
+available in form of JAR files
+
+-- also called 'java unit testing framework'.
+
+install Testng in Eclipse:
+1. from Help menu, click “Install New Software”.
+2.  add url http://beust.com/eclipse/ in work with box.
+3. press enter
+4. wait for few seconds until pending changes to TestNG
+5. check testNG and click next.
+6. click i accept and click finish.
+7. after few seconds, a warning will be displayed, click on install anyway.
+8. after few seconds, click on yes to restart the eclipse.
+9. to add testNG library, right click on project and click on properties.
+10. go to java build path
+11. click on add library.
+12. select TestNg and click apply/ok.
+
